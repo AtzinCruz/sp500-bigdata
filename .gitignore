@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.DS_Store
+*.pyc
+.ipynb_checkpoints/
+streaming/stream_output/_checkpoint/
+processed/stocks_db.sqlite
